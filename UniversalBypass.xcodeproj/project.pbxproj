@@ -186,7 +186,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1110;
-				LastUpgradeCheck = 1110;
+				LastUpgradeCheck = 1120;
 				ORGANIZATIONNAME = "Daniel Hladík";
 				TargetAttributes = {
 					7322433F23734E98000CF4E4 = {
@@ -409,6 +409,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4LA8SY4H95;
+				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "UniversalBypass Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -429,6 +430,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4LA8SY4H95;
+				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "UniversalBypass Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -452,6 +454,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 4LA8SY4H95;
+				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = UniversalBypass/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -473,6 +476,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 4LA8SY4H95;
+				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = UniversalBypass/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
