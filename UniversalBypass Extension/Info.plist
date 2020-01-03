@@ -51,7 +51,10 @@
 			<key>Allowed Domains</key>
 			<array>
 				<string>*.ckk.ai</string>
+				<string>*.docgod.com</string>
+				<string>*.earnload.com</string>
 				<string>*.fc.lc</string>
+				<string>*.gplinks.in</string>
 				<string>*.iddeas.xyz</string>
 				<string>*.oko.sh</string>
 				<string>*.shiboru.in</string>
@@ -61,6 +64,7 @@
 				<string>*.techbeast.xyz</string>
 				<string>*.techsapparel.com</string>
 				<string>*.techofaqs.com</string>
+				<string>*.tmearn.com</string>
 			</array>
 			<key>Level</key>
 			<string>Some</string>
